@@ -1,0 +1,1 @@
+This directory contains the data used to test the symbol recognizer.
